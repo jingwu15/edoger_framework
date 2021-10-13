@@ -9,3 +9,15 @@
 - The Edoger framework is a magical web development framework.
 - The Edoger framework only supports **PHP 7.1** or later.
 - The Edoger framework uses the [LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.en.html) license.
+
+Usage
+-----
+Add ``jingwu15/edoger_framework`` as a dependency in your project's ``composer.json`` file (change version to suit your version of Elasticsearch):
+```json
+    {
+        "require": {
+            "jingwu15/edoger_framework": "1.0.0"
+        }
+    }
+```
+
