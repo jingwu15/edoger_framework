@@ -1,10 +1,10 @@
 {
-	"name": "edoger/framework",
+	"name": "jingwu15/edoger_framework",
 	"description": "A magical web development framework.",
 	"keywords": ["edoger", "framework"],
 	"license": "LGPL-3.0-only",
 	"type": "library",
-	"homepage": "https://github.com/edoger/framework",
+	"homepage": "https://github.com/jingwu15/edoger_framework",
 	"authors": [
 		{
 			"name": "Qingshan Luo",
